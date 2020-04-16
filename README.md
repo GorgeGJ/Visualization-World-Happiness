@@ -1,5 +1,4 @@
-# gj710-nyu.edu
-Visualization World Happiness
+# Visualization World Happiness
 
 
 ### 
